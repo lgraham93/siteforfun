@@ -1,0 +1,20 @@
+h1{font-family: cursive;
+    margin-left: 30%;
+    color:deeppink;
+    font-size:65px;}
+body{font-family:verdana;
+    background-image: url(../LGself_portraitmmp210/gradient.jpg);
+    padding:30;
+    background-color:pink;}
+p{font-size:80%;
+  text-align: center;}
+img {text-align:center; }
+ul{color:darksalmon;
+text-align: center;}
+div {
+    width: 300px;
+    border: 2px solid pink;
+    padding: 10px;
+    margin: 5px;
+
+}
